@@ -2,7 +2,7 @@
 //  main.hpp
 //  RayCasting
 //
-//  Created by Guillaume Vitalis on 14/06/2020.
+//  Created by CHOOSEIT on 14/06/2020.
 //  Copyright © 2020 CHOOSEIT. All rights reserved.
 //
 
